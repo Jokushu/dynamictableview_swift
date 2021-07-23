@@ -1,6 +1,6 @@
 import UIKit
 
-var coins: [Coin] = [
+let coins: [Coin] = [
     Coin(photo: UIImage(named: "bitcoin")!,
          code: "BTC",
          name: "Bitcoin",
